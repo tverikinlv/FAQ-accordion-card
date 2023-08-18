@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/tverikinlv/FAQ-accordion-card
-- Live Site URL: https://tverikinlv.github.io/results-summary-component-solution/FAQ-accordion-card
+- Live Site URL: https://tverikinlv.github.io/FAQ-accordion-card/
 
 ## My process
 
