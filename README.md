@@ -52,5 +52,3 @@ Can't say that I learned anything new, but it was good parctice.
 
 - Website - [Leonid Tverikin](https://tlv-portfolio.vercel.app)
 - Frontend Mentor - [@tverikinlv](https://www.frontendmentor.io/profile/tverikinlv)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
